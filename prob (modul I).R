@@ -1,0 +1,6 @@
+data_sintiya = read.delim("clipboard")
+View(data_sintiya)
+mean(data_sintiya$Tinggi.Badan)
+str(data_sintiya)
+data_sintiya = read.csv("~/Desktop/Buku1.csv")
+View(data_sintiya)
